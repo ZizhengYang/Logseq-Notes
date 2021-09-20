@@ -8,9 +8,9 @@
 - Cities
 	- Athens: 雅典
 	- Babylon: 巴比伦
-	- Hattusa: 哈图萨
-	- Jerusalem:
-	- Knossos:
+	- Hattusa: 哈图萨, 哈图沙是古代赫梯王国的首都，位于土耳其首都安卡拉东偏北约164千米乔鲁姆省波阿兹卡雷
+	- Jerusalem: 耶路撒冷
+	- Knossos: 克诺索斯
 	- Memphis:
 	- Nineveh:
 	- Sidon:
