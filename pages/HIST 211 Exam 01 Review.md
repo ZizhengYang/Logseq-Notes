@@ -26,7 +26,8 @@
 		- Khufu
 		- Great Pyramid
 		- Sphinx
-	-
+	- 1st Intermediate Period
+		- Disintegration
 	-
 - IDENTIFICATIONS (10 POINTS)
 	- 第 1 部分：识别（10 分）：测验的这一部分将包括一 (1) 个问题。该问题将让您从以下列表中选择两 (2) 位亚述统治者。您将在两者中选择一 (1) 项并确定他的身份（即，简要说明他是谁、他为何如此重要以及他何时生活）。
