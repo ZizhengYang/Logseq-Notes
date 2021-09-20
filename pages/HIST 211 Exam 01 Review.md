@@ -87,4 +87,6 @@
 	- Uruk:
 	-
 - Essay
-	-
+	- The reasons for the success of the Assyrian Empire
+	- The reasons for the failure of the Assyrian Empire
+	- The reasons for the success of the Assyrian Empire
