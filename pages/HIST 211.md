@@ -1,3 +1,4 @@
 - Lectures
 	- [[L02 The Akkadian Empire (video)]]
-	-
+- Exams
+	- [[HIST 211 Exam 01 Review]]
