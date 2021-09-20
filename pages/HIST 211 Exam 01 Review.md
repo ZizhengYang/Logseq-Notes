@@ -1,5 +1,6 @@
 - Others
 	- [[L02 The Akkadian Empire (video)]]
+	-
 - Languages
 	- Tigris 底格里斯河
 	- Euphrates 幼发拉底河
@@ -21,6 +22,8 @@
 	- [[Esarhaddon]]
 	- [[Sennacherib]]
 	- [[Assurbanipal]]
+	- 自己补充
+	-
 - Cities
 	- Athens: 雅典
 	- Babylon: 巴比伦

@@ -1,5 +1,5 @@
 - Lectures
 	- [[L02 The Akkadian Empire (video)]]
-	- 【
+	- [[L03 Late Bronze Age Empires (videos)]]
 - Exams
 	- [[HIST 211 Exam 01 Review]]
