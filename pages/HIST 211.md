@@ -1,1 +1,3 @@
-- L02 The Akkadian Empire (video)
+- Lectures
+	- [[L02 The Akkadian Empire (video)]]
+	-
