@@ -23,7 +23,8 @@
 	- [[Sennacherib]]
 	- [[Assurbanipal]]
 	- 自己补充
-	-
+	- Sargon
+	- Hammurabi
 - Cities
 	- Athens: 雅典
 	- Babylon: 巴比伦
