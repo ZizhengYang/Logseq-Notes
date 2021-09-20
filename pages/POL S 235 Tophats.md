@@ -1,1 +1,5 @@
 - Does justice require the government to try to mitigate the serious hardships that some children face because of their parents' poor choices?
+- Does utilitarianism provide the best way of deciding how much resdestributive taxation their should be?
+	- No, becase it might take away from people property that is rightfully theirs
+	- Yes, because it would maximize overall happiness
+	-
