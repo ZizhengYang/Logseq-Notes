@@ -3,3 +3,4 @@
 	- No, becase it might take away from people property that is rightfully theirs 21
 	- Yes, because it would maximize overall happiness 11
 	- No, because it would still allow too much inequality 22
+- Do wealthy countries have an obligation to help poor countries so that there is greater equality of life chances for all people?
