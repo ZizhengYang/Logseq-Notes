@@ -6,3 +6,6 @@
 - Do wealthy countries have an obligation to help poor countries so that there is greater equality of life chances for all people?
 	- Yes, there is an obligation 34
 	- No, there is not an obligation 25
+-
+  ---
+-
