@@ -1,0 +1,5 @@
+- IDENTIFICATIONS (10 POINTS)
+	- Tiglath-pileser III
+	- Esarhaddon
+	- Sennacherib
+	- Assurbanipal
