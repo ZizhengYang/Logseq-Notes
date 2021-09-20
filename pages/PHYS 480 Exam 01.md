@@ -6,4 +6,7 @@
 	- Also matrix representation, under y basis
 - Possible problems
 	- Math background
-		- Calculate.
+		- Calculate the norm of complex numbers
+		- Plot complex numbers
+		- Transform between $z=a+ib$ and $z=Ae^{i\theta}$
+		-
