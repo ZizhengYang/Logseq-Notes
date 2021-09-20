@@ -13,5 +13,5 @@
 	- Knossos: 克诺索斯
 	- Memphis: 孟菲斯
 	- Nineveh: 尼尼微, 尼尼微为古代亚述帝国的重镇之一，于底格里斯河东岸
-	- Sidon:
-	- Troy:
+	- Sidon: 西顿, 黎巴嫩
+	- Troy: 特洛伊
