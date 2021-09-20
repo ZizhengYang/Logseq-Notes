@@ -1,2 +1,4 @@
-- The reason civilization emerges
--
+- The reason civilization emerges (Pros and Cons)
+	- secure food supply
+	- plenty of beer
+	- power (for few people)
