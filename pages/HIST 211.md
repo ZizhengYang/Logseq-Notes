@@ -5,6 +5,7 @@
 	- [[L05 The Collapse of ca. 1200 BCE (video)]]
 	- [[L06 The Rise of Assyria]]
 	- [[L07 The Fall of Assyria]]
-	- Formally
+	- Formally notes hahaha:
+	-
 - Exams
 	- [[HIST 211 Exam 01 Review]]
