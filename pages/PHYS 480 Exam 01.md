@@ -1,5 +1,5 @@
 - Important data
-	- Matrix representations of Measurements (and eigenvalues, and eigenvectors)
+	- Matrix representations of Q Measurements (and [[Eigenvalues]], and [[Eigenvectors]])
 		-
 		  $$S_x$$
 	- Also matrix representation, under x basis
@@ -9,4 +9,4 @@
 		- Calculate the norm of complex numbers
 		- Plot complex numbers
 		- Transform between $z=a+ib$ and $z=Ae^{i\theta}$
-		-
+	-
