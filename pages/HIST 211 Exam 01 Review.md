@@ -6,12 +6,12 @@
 	- [[Sennacherib]]
 	- [[Assurbanipal]]
 - Cities
-	- Athens
-	- Babylon
-	- Hattusa
-	- Jerusalem
-	- Knossos
-	- Memphis
-	- Nineveh
-	- Sidon
-	- Troy
+	- Athens: 雅典
+	- Babylon: 巴比伦
+	- Hattusa: 哈图萨
+	- Jerusalem:
+	- Knossos:
+	- Memphis:
+	- Nineveh:
+	- Sidon:
+	- Troy:
