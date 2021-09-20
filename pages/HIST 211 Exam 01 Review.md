@@ -51,8 +51,8 @@
 				- "Amarna Style" Amarna 阿玛纳埃及古都。即泰尔埃尔阿马那，位于今之明亚省。古埃及第十八王朝阿肯那顿法老统治时期在此建都并由底比斯迁都于此，得名意为“阿顿神德泽所被之地”。
 			- Tutankhamen 图坦卡蒙
 	- Minoans & Mycenaeans 米诺斯人和迈锡尼人
-	- Anatolia
-	- Macedonia
+	- Anatolia 安卡托利亚
+	- Macedonia 马其顿
 	- Thrace 色雷斯
 	- Thessaly 色萨利
 	- Peloponnese 伯罗奔尼撒
