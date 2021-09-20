@@ -11,7 +11,7 @@
 	- Hattusa: 哈图萨, 哈图沙是古代赫梯王国的首都，位于土耳其首都安卡拉东偏北约164千米乔鲁姆省波阿兹卡雷
 	- Jerusalem: 耶路撒冷
 	- Knossos: 克诺索斯
-	- Memphis:
-	- Nineveh:
+	- Memphis: 孟菲斯
+	- Nineveh: 尼尼微, 尼尼微为古代亚述帝国的重镇之一，于底格里斯河东岸
 	- Sidon:
 	- Troy:
