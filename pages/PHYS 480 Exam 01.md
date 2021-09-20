@@ -1,10 +1,11 @@
-- Important data
+- **Important data**
 	- Matrix representations of [[Quantum Measurements]] (and [[Eigenvalues]], and [[Eigenvectors]])
 		-
 		  $$S_x$$
 	- Also matrix representation, under x basis
 	- Also matrix representation, under y basis
-- Possible problems
+- **Important equations to remember**
+- **Possible problems**
 	- Math background
 		- Calculate the norm of complex numbers
 		- Plot complex numbers
