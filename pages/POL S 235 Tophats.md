@@ -1,0 +1,1 @@
+- Does justice require the government to try to mitigate the serious hardships that some children face because of their parents' poor choices?
