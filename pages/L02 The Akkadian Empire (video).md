@@ -1,4 +1,11 @@
 - The reason civilization emerges (Pros and Cons)
-	- secure food supply
-	- plenty of beer
-	- power (for few people)
+	- Pros:
+		- secure food supply
+		- plenty of beer
+		- power (for few people)
+	- Cons:
+		- more work
+		- much more disease
+		- less varied diet
+		- less freedom
+		- "deskilling" 通过引入由半熟练工人或非熟练工人操作的技术来消除某个行业或经济中的熟练劳动力的过程
