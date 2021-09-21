@@ -16,7 +16,7 @@
 		- Negative freedom
 	- 3 view points
 		- Paternalism 家长制作风 opposed by libertariansim
-		- Harm Principle
+		- Harm Principle 伤害原则 John Stuart Mill - On Liberty
 		- Moralism
 - Practice questions:
 	-
