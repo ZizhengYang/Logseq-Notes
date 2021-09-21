@@ -20,6 +20,7 @@
 		- Moralism 道德主义
 	- Plural value principle
 	- Procrustes
+	- Aristotle‘s principle of proportional equality
 	-
 	-
 - Practice questions:
