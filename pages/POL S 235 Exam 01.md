@@ -4,5 +4,8 @@
 	- Utilitarianism 功利主义
 	- Psychological egoism 心理利己主义
 	- Jeremy Bentham: 杰里米·边沁
+	- First order desires
+	- Second order desires
+	-
 - Practice questions:
 	-
