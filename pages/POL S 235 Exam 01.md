@@ -20,8 +20,9 @@
 		- Moralism 道德主义
 	- Plural value principle
 	- Procrustes
-	- Aristotle‘s principle of proportional equality
-	- Formal principle of equality
+	- Equality
+		- Aristotle‘s principle of proportional equality
+		- Formal principle of equality
 	-
 	-
 - Practice questions:
