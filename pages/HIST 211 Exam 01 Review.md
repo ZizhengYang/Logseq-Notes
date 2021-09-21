@@ -143,7 +143,7 @@
 			- Excessive exploitation: invest provinces, unhappy subjects
 			- Terrorism: long run, more determined enemies
 			- Centralized power: trustful king personal ability
-			- Poor Babylonian policy:
+			- Poor Babylonian policy: (compare to rome) no citizenship
 			- Ideological exclusivity
 		- Other
 			- Royal family internal conflicts
