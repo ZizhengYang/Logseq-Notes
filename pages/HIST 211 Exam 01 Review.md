@@ -100,6 +100,7 @@
 			- Cavalry
 			- Spies
 			- Royal road
+			- Religion: confidence
 		- Thinking
 			- move to new capital Kalhu
 				- avoid attack from Babylon
