@@ -1,4 +1,4 @@
 - 他是谁：Assyrian king, King of Upper and Lower Egypt and Nubia
 - 他为何如此重要：Once launched an expedition to Egypt
-- 他何时生活：
+- 他何时生活：7 centry BC
 - 画蛇添足：
