@@ -141,9 +141,9 @@
 		- Teacher
 			- Excessive expansion: runout manpower, use subject army without loyalty
 			- Excessive exploitation: invest provinces, unhappy subjects
-			- Terrorism: long run, more determined enemy
-			- Centralized power
-			- Poor Babylonian policy
+			- Terrorism: long run, more determined enemies
+			- Centralized power: trustful king personal ability
+			- Poor Babylonian policy:
 			- Ideological exclusivity
 		- Other
 			- Royal family internal conflicts
