@@ -11,6 +11,8 @@
 	- The consent view 同意观点
 	- Republican Liberty
 	- Benjamin Constant
-	-
+	- Isaiah Berlin
+		- Positive freedom
+		- Negative freedom
 - Practice questions:
 	-
