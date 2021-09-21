@@ -1,4 +1,4 @@
 - 他是谁：son of Sargon II, king of Assyian
 - 他为何如此重要：build Nineveh
 - 他何时生活：8 centry BC
-- 画蛇添足：
+- 画蛇添足：destroyed Babylon once
