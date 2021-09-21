@@ -90,6 +90,10 @@
 	- The reasons for the success of the Assyrian Empire 亚述帝国成功的原因
 		- Natural
 			- plentiful of rainfall, sufficient food supply
+		- Policy
+			- mass deportation: weak resistence
+			- more provinces: enhance control
+			-
 		- Thinking
 			- move to new capital Kalhu
 	- The reasons for the failure of the Assyrian Empire 亚述帝国失败的原因
