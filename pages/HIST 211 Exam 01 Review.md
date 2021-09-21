@@ -95,6 +95,11 @@
 			- more provinces: enhance control
 			- eunuchs: trustful servants
 			- dual monarchy: be more accepted
+		- Technology
+			- Iron weapons
+			- Cavalry
+			- Spies
+			- Royal road
 		- Thinking
 			- move to new capital Kalhu
 				- avoid attack from Babylon
