@@ -139,9 +139,9 @@
 				- integrate the northern peoples
 	- The reasons for the failure of the Assyrian Empire 亚述帝国失败的原因
 		- Teacher
-			- Excessive expansion:
-			- Excessive exploitation
-			- Terrorism
+			- Excessive expansion: runout manpower, use subject army without loyalty
+			- Excessive exploitation: invest provinces, unhappy subjects
+			- Terrorism: long run, more determined enemy
 			- Centralized power
 			- Poor Babylonian policy
 			- Ideological exclusivity
