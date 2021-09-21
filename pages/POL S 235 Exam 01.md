@@ -10,6 +10,6 @@
 	- Objective freedom
 	- The consent view 同意观点
 	- Republican Liberty
-	-
+	- Benjamin Constant
 - Practice questions:
 	-
