@@ -95,13 +95,15 @@
 			- more provinces: enhance control, more tributes and troops
 			- eunuchs: trustful servants
 			- dual monarchy: be more accepted
+		- Culture
+			- Religion: confidence
+			- Proud of military campion
 		- Technology
 			- Military organization
 			- Iron weapons
 			- Cavalry: one of the most early
 			- Spies
 			- Royal road
-			- Religion: confidence
 			- Diplomacy and terrorism: hostage
 		- Thinking
 			- move to new capital Kalhu
