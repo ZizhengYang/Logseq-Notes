@@ -8,6 +8,6 @@
 	- Second order desires
 	- Surjective freedom
 	- Objective freedom
-	-
+	- The Consent view
 - Practice questions:
 	-
