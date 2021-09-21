@@ -1,5 +1,8 @@
 - [[POL S 235 Tophats]]
 - Review on Sandel
 - Review on TPP
+	- Utilitarianism
+	- Psychological egoism 心理利己主义
+	-
 - Practice questions:
 	-
