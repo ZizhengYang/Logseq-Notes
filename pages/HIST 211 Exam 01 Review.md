@@ -94,7 +94,10 @@
 			- mass deportation: weak resistence
 			- more provinces: enhance control
 			- eunuchs: trustful servants
+			- dual monarchy
 		- Thinking
 			- move to new capital Kalhu
+				- avoid attack from Babylon
+				- Integrate the northern peoples
 	- The reasons for the failure of the Assyrian Empire 亚述帝国失败的原因
 	- How successful Assyrian kings stayed in power 亚述国王如何成功地掌权
