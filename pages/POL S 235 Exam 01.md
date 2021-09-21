@@ -14,6 +14,9 @@
 	- Isaiah Berlin
 		- Positive freedom
 		- Negative freedom
-	-
+	- 3 view points
+		- Paternalism
+		- Harm Principle
+		- Moralism
 - Practice questions:
 	-
