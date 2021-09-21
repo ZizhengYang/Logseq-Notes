@@ -93,7 +93,7 @@
 		- Policy
 			- mass deportation: weak resistence
 			- more provinces: enhance control
-			- eunuchs:
+			- eunuchs: trustful servants
 		- Thinking
 			- move to new capital Kalhu
 	- The reasons for the failure of the Assyrian Empire 亚述帝国失败的原因
