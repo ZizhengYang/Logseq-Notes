@@ -6,6 +6,8 @@
 	- Jeremy Bentham: 杰里米·边沁
 	- First order desires
 	- Second order desires
+	- Surjective freedom
+	- Objective freedom
 	-
 - Practice questions:
 	-
