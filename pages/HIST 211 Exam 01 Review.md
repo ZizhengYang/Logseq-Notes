@@ -98,7 +98,7 @@
 		- Technology
 			- Military organization
 			- Iron weapons
-			- Cavalry
+			- Cavalry: one of the most early
 			- Spies
 			- Royal road
 			- Religion: confidence
