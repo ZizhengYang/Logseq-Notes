@@ -94,7 +94,7 @@
 			- mass deportation: weak resistence
 			- more provinces: enhance control
 			- eunuchs: trustful servants
-			- dual monarchy
+			- dual monarchy: be more accepted
 		- Thinking
 			- move to new capital Kalhu
 				- avoid attack from Babylon
