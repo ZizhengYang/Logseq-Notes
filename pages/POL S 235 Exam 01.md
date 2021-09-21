@@ -23,6 +23,9 @@
 	- Equality
 		- Aristotle‘s principle of proportional equality
 		- Formal principle of equality
+	- Substantive equality
+		- Resource egalitariansim
+		- Luck egalitarianism
 	-
 	-
 - Practice questions:
