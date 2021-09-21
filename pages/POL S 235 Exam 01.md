@@ -27,7 +27,7 @@
 		- Resource egalitariansim
 		- Luck egalitarianism
 		- Welfare egalitarianism
-		- Equality of opportunity
+	- Equality of opportunity
 	-
 	-
 - Practice questions:
