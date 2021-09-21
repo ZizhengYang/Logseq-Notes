@@ -92,10 +92,11 @@
 			- plentiful of rainfall, sufficient food supply
 		- Policy
 			- mass deportation: weak resistence
-			- more provinces: enhance control
+			- more provinces: enhance control, more tributes and troops
 			- eunuchs: trustful servants
 			- dual monarchy: be more accepted
 		- Technology
+			- Military organization
 			- Iron weapons
 			- Cavalry
 			- Spies
@@ -106,6 +107,8 @@
 				- avoid attack from Babylon
 				- integrate the northern peoples
 	- The reasons for the failure of the Assyrian Empire 亚述帝国失败的原因
+		- Subject
+			- non-
 	- How successful Assyrian kings stayed in power 亚述国王如何成功地掌权
 		- mass deportation: weak resistence
 		- more provinces: enhance control
