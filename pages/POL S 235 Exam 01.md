@@ -15,7 +15,7 @@
 		- Positive freedom
 		- Negative freedom
 	- 3 view points
-		- Paternalism
+		- Paternalism 家长制作风
 		- Harm Principle
 		- Moralism
 - Practice questions:
