@@ -1,8 +1,8 @@
 - [[POL S 235 Tophats]]
 - Review on Sandel
 - Review on TPP
-	- Utilitarianism
+	- Utilitarianism 功利主义
 	- Psychological egoism 心理利己主义
-	-
+	- Jeremy Bentham: 杰里米·边沁
 - Practice questions:
 	-
