@@ -102,6 +102,7 @@
 			- Spies
 			- Royal road
 			- Religion: confidence
+			- Diplomacy and terrorism: hostage
 		- Thinking
 			- move to new capital Kalhu
 				- avoid attack from Babylon
