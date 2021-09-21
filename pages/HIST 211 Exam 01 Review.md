@@ -105,4 +105,4 @@
 		- more provinces: enhance control
 		- eunuchs: trustful servants
 		- dual monarchy: be more accepted
-		- frequently move the capital: avoid
+		- frequently move the capital: avoid political clan increase their power
