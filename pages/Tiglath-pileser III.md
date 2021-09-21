@@ -2,3 +2,7 @@
 - 他为何如此重要：
 - 他何时生活：
 - 画蛇添足：他推行了一系列出色的改革，包括
+	- mass deportation: weak resistence
+	- more provinces: enhance control, more tributes and troops
+	- eunuchs: trustful servants
+	- dual monarchy: be more accepted
