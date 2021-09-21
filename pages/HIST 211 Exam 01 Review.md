@@ -138,8 +138,14 @@
 				- avoid attack from Babylon
 				- integrate the northern peoples
 	- The reasons for the failure of the Assyrian Empire 亚述帝国失败的原因
+		- Teacher
+			- Excessive expansion
+			- Excessive exploitation
+			- Terrorism
+			- Centralized power
+			-
 		- Other
-			- Royal Family Fight
+			- Royal family internal conflicts
 		- Subjects
 			- non-Assyria cannot gain power
 	- How successful Assyrian kings stayed in power 亚述国王如何成功地掌权
