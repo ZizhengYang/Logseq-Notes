@@ -17,6 +17,6 @@
 	- 3 view points
 		- Paternalism 家长制作风 opposed by libertariansim
 		- Harm Principle 伤害原则 John Stuart Mill - On Liberty, Joel Feinberg
-		- Moralism
+		- Moralism 道德主义
 - Practice questions:
 	-
