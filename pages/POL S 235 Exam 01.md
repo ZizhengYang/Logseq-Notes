@@ -26,6 +26,8 @@
 	- Substantive equality
 		- Resource egalitariansim
 		- Luck egalitarianism
+		- Welfare egalitarianism
+		- Equality of opportunity
 	-
 	-
 - Practice questions:
