@@ -86,6 +86,8 @@
 		-
 		  > Freedom from others' interference 免于他人干涉的自由
 	- **Principle of paternalism**
+		-
+		  > Laws may appropriately limit people's liberties in order to prevent these people from doing things that would be bad for them
 	- **Harm principle**
 	- **Principle of Moralism**
 	- **Left libertarianism**
