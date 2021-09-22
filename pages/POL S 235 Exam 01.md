@@ -43,6 +43,7 @@
 			- 主观客观伤害
 			- 如何判断是否收到伤害
 			- 主观伤害，客观帮助
+			- 直接伤害间接伤害
 	- 2) Should people be able to sell their own organs for financial gain? What principles should govern what sorts of things, in general, should be bought and sold?
 	  2) 人们是否应该为了经济利益而出售自己的器官？一般来说，应该买卖什么样的东西，应该遵循什么原则？
 		- 人们应该为了经济利益而出售自己的器官
