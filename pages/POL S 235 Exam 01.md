@@ -34,6 +34,7 @@
 	- 1) Is the harm principle the right way to set the boundaries of individual liberty? What difficulties do we encounter in trying to arrive at a universally accepted definition of harm? 
 	  1) 伤害原则是否是设定个人自由界限的正确方式？在试图得出一个普遍接受的伤害定义时，我们遇到了哪些困难？
 		- **伤害原则是设定个人自由界限的正确方式**
+			-
 		- 伤害原则否设定个人自由界限的正确方式
 		- **困难？**
 	- 2) Should people be able to sell their own organs for financial gain? What principles should govern what sorts of things, in general, should be bought and sold?
