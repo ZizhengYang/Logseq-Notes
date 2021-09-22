@@ -67,15 +67,16 @@
 	- **Jeremy Bentham**
 	- **First order desires**
 	- **Second order desires**
-	- **Subjective view of happiness**
+	- **Subjective view of freedom**
 	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
 		-
 		  > A person is free if she believes herself to be free. Defines happiness in terms of experiences like pleasure or satisfaction.
 		  > 如果一个人相信自己是自由的，那么她就是自由的。 根据愉悦或满足等体验来定义幸福。
-	- **Objective view of happiness**
+	- **Objective view of freedom**
 		-
 		  > Wether a person is free depends on his situation, not on the way he feel. People are sometimes wrong about whether they are truly happy. 
 		  > 一个人是否自由取决于他的处境，而不是他的感受。人们有时会错误地判断自己是否真的快乐。
+	-
 	- Principle of paternalism
 	- **Left libertarianism**
 		-
