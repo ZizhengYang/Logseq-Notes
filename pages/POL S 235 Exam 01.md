@@ -126,8 +126,10 @@
 		  > People should be treated as equals unless there are good reasons justifying unequal treatment 人们应该被平等对待，除非有充分的理由证明不平等待遇是合理的
 	- **Resource egalitarianism**
 		-
-		  > Everyone should start from the same share of reasources
+		  > Everyone should start from the same share of resources 每个人都应该从相同的资源份额开始
 	- **Luck egalitarianism**
+		-
+		  > It's wrong if some people are worse off than others because of something that is not their fault or beacuse of some t
 	- **Welfare egalitarianism**
 	- **Equality of opportunity**
 	- **Sufficientarianism**
