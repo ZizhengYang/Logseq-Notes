@@ -49,15 +49,17 @@
 -
 -
 - Quizlet
-	- What are the four core values that represent goals, or potential goals, of government?
+	- What are the four core values that represent goals, or **potential goals, of government**?
 	  代表政府目标或潜在目标的四个核心价值观是什么？
 		-
 		  > Happiness, freedom, equality, justice
+	- **Utilitarianism**
+	- *Psychological egoism*
 	- **Subjective view of happiness**
 	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
 		-
 		  > A person is free if she believes herself to be free. Defines happiness in terms of experiences like pleasure or satisfaction.
-		  > 你不可能对自己的幸福状态有什么误解。 根据愉悦或满足等体验来定义幸福。
+		  > 如果一个人相信自己是自由的，那么她就是自由的。 根据愉悦或满足等体验来定义幸福。
 	- **Objective view of happiness**
 		-
 		  > Wether a person is free depends on his situation, not on the way he feel. People are sometimes wrong about whether they are truly happy. 
