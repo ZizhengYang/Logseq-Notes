@@ -93,7 +93,7 @@
 		  > The only legitimate reason for limiting a person's freedom is to prevent harm to others. 限制个人自由的唯一合法理由是防止对其他人造成伤害。
 	- **Principle of Moralism**
 		-
-		  > It is legitimate to limit people
+		  > It is legitimate to limit people's liberty in order to prevent them from doing things that are morally wrong, even when their actions are harmless. 限制人们的自由以防止他们做不道德的事情是合法的，即使他们的行为是无害的。
 	- **Left libertarianism**
 		-
 		  > There should be initial redistribution, so that people have roughly equal opportunities 应该有初步的再分配，让人们有大致平等的机会
