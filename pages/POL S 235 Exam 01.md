@@ -134,7 +134,11 @@
 		-
 		  > Resources should be distributed such that each person's expected welfare is equal to another. 资源的分配应该使每个人的预期福利与另一个人相同
 	- **Equality of opportunity**
+		-
+		  > Everyone should have the same opportunity as others to achieve her aims or to acquires goods and resources 每个人都应该有和其他人一样的机会来实现自己的目标或获得商品和资源
 	- **Sufficientarianism**
+		-
+		  >
 	- **[[John Rawls]]**
 	- **[[Robert Nozick]]**
 	- **Left libertarianism**
