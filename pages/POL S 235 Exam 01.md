@@ -66,7 +66,9 @@
 	- **Utilitarianism**
 	- **Psychological egoism**
 	- **Jeremy Bentham**
-	-
+	- **[[John Stuart Mill]]**
+		-
+		  >
 	- **First order desires**
 		-
 		  > Direct wants 直接想要
