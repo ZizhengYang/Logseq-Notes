@@ -48,3 +48,10 @@
 	  6) 什么时候，如果有的话，政治家以意图使选民持有错误信念的方式说话或写作在道德上是允许的吗？在回答中讨论康德和阿奎那的立场。
 - Quizlet
 	- What are the four core values that represent goals, or potential goals, of government?
+	  代表政府目标或潜在目标的四个核心价值观是什么？
+		-
+		  > Happiness, freedom, equality, justice
+	- What is the **Subjective view of happiness**
+	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
+		-
+		  >
