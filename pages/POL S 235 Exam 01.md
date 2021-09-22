@@ -49,11 +49,12 @@
 	- 4) How did John Stuart Mill respond to the objections to Jeremy Bentham's account of utilitarianism? Do his answers show that utilitarianism is correct?
 	  4) 约翰·斯图尔特·密尔如何回应对杰里米·边沁功利主义解释的反对意见？他的回答是否表明功利主义是正确的？
 		- **约翰·斯图尔特·密尔如何回应对杰里米·边沁功利主义解释的反对意见？**
-		-
+		- 他的回答是否表明功利主义是正确的
+		- 他的回答是否表明功利主义不是正确的
 	- 5) Should we use Rawls's veil of ignorance to decide whether the basic structure of a society is just?
 	  5）我们是否应该用罗尔斯的无知之幕来判断一个社会的基本结构是否公正？
 	- 我们应该用罗尔斯的无知之幕来判断一个社会的基本结构是否公正
-	- 我们不应该用罗尔斯的无知之幕来判断一个社会的基本结构是否公正
+	- **我们不应该用罗尔斯的无知之幕来判断一个社会的基本结构是否公正**
 	- 6) When, if ever, is it morally permissible for politicians to speak or write in ways that are intended to cause voters to hold false beliefs? In answering discuss the positions of Kant and Aquinas.
 	  6) 什么时候，如果有的话，政治家以意图使选民持有错误信念的方式说话或写作在道德上是允许的吗？在回答中讨论康德和阿奎那的立场。
 -
