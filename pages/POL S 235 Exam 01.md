@@ -46,3 +46,5 @@
 	  5）我们是否应该用罗尔斯的无知之幕来判断一个社会的基本结构是否公正？
 	- 6) When, if ever, is it morally permissible for politicians to speak or write in ways that are intended to cause voters to hold false beliefs? In answering discuss the positions of Kant and Aquinas.
 	  6) 什么时候，如果有的话，政治家以意图使选民持有错误信念的方式说话或写作在道德上是允许的吗？在回答中讨论康德和阿奎那的立场。
+- Quizlet
+	- What are the four core values that represent goals, or potential goals, of government?
