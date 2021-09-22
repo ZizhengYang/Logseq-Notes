@@ -78,4 +78,6 @@
 		-
 		  > there should be initial redistribution, so that people have roughly equal opportunities
 	- **Sufficientarianism**
+	- **Young's five faces of oppression**
+	-
 	-
