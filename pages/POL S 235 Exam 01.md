@@ -129,8 +129,9 @@
 		  > Everyone should start from the same share of resources 每个人都应该从相同的资源份额开始
 	- **Luck egalitarianism**
 		-
-		  > It's wrong if some people are worse off than others because of something that is not their fault or beacuse of some t
+		  > It's wrong if some people are worse off than others because of something that is not their fault or because of some thing for which they are not responsible 如果有些人因为一些不是他们的错或因为一些他们不负责的事情而变得比其他人更糟，那是错误的
 	- **Welfare egalitarianism**
+		-
 	- **Equality of opportunity**
 	- **Sufficientarianism**
 	- **[[John Rawls]]**
