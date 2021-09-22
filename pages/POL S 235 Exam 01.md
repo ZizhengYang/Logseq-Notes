@@ -120,8 +120,10 @@
 	- Egalitarian 平等主义者
 	- **Aristotle's principle of proportional equality**
 		-
-		  >
+		  > Treat equals equally, and treat unequals unequally 平等对待，不平等对待不平等
 	- **Formal principle of equality**
+		-
+		  >
 	- **Resource egalitarianism**
 	- **Luck egalitarianism**
 	- **Welfare egalitarianism**
