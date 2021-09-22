@@ -67,6 +67,8 @@
 	- **Psychological egoism**
 	- **Jeremy Bentham**
 	- **[[Robert Nozick]]**
+		-
+		  >
 	- **[[John Stuart Mill]]**
 		-
 		  >
@@ -89,6 +91,8 @@
 		-
 		  > People are free just in case no one has the power to dominate or unjustly restrict their liberty 人们是自由的，以防万一没有人有权支配或不公正地限制他们的自由
 	- **[[Benjamin Constant]]**
+		-
+		  >
 	- **Positive liberty**
 		-
 		  > The freedom to act on a wide range of available choices 可以根据广泛的可用选择自由地采取行动
@@ -111,11 +115,11 @@
 	- Procrustes 普鲁斯特
 	- Egalitarian 平等主义者
 	- **Aristotle's principle of proportional equality**
-	- Formal principle of equality
-	- Resource egalitarianism
-	- Luck egalitarianism
-	- Welfare egalitarianism
-	- Equality of opportunity
+	- **Formal principle of equality**
+	- **Resource egalitarianism**
+	- **Luck egalitarianism**
+	- **Welfare egalitarianism**
+	- **Equality of opportunity**
 	- **Sufficientarianism**
 	- **[[John Rawls]]**
 	- **[[Robert Nozick]]**
