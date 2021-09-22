@@ -53,12 +53,12 @@
 	  代表政府目标或潜在目标的四个核心价值观是什么？
 		-
 		  > Happiness, freedom, equality, justice
-	- What is the **Subjective view of happiness**
+	- **Subjective view of happiness**
 	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
 		-
 		  > You can't possibly be wrong about your own state of happiness. Defines happiness in terms of experiences like pleasure or satisfaction.
 		  > 你不可能对自己的幸福状态有什么误解。 根据愉悦或满足等体验来定义幸福。
-	- What is the **Objective view of happiness**
+	- **Objective view of happiness**
 		-
 		  > People are sometimes wrong about whether they are truly happy. 
 		  > 人们有时会错误地判断自己是否真的快乐。
