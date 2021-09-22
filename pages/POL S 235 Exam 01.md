@@ -80,6 +80,8 @@
 		-
 		  > People are free just in case no one has the power to dominate or unjustly restrict their liberty 人们是自由的，以防万一没有人有权支配或不公正地限制他们的自由
 	- **Positive liberty**
+		-
+		  > The freedom to act on a wide range of available choices 可以根据广泛的可用选择自由地采取行动
 	- **Negative liberty**
 	- **Principle of paternalism**
 	- **Harm principle**
