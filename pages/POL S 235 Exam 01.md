@@ -90,7 +90,7 @@
 	- **Principle of Moralism**
 	- **Left libertarianism**
 		-
-		  > there should be initial redistribution, so that people have roughly equal opportunities
+		  > There should be initial redistribution, so that people have roughly equal opportunities 应该有初步的再分配，让人们有大致平等的机会
 	- **Sufficientarianism**
 	- **Young's five faces of oppression**
 	-
