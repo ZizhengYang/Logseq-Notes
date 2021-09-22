@@ -65,9 +65,13 @@
 		  > Happiness, freedom, equality, justice
 	- **Utilitarianism**
 		-
-		  > Actions and policies should be judged according to the aggregate amount of happiness or well-being they produce. Actions are morally beeter the more happinr
+		  > Actions and policies should be judged according to the aggregate amount of happiness or well-being they produce. Actions are morally beeter the more happiness they produce. 应根据其产生的幸福或幸福的总量来判断行动和政策。 行动产生的幸福越多，在道德上就越好。
 	- **Psychological egoism**
+		-
+		  > People exclusively pursuit their own happiness in all their voluntary actions 人们在所有自愿行为中只追求自己的幸福
 	- **Jeremy Bentham**
+		-
+		  >
 	- **[[Robert Nozick]]**
 		-
 		  >
