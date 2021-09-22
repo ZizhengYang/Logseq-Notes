@@ -83,6 +83,8 @@
 		-
 		  > The freedom to act on a wide range of available choices 可以根据广泛的可用选择自由地采取行动
 	- **Negative liberty**
+		-
+		  > Freedom from others' interference 免于他人干涉的自由
 	- **Principle of paternalism**
 	- **Harm principle**
 	- **Principle of Moralism**
