@@ -90,8 +90,10 @@
 		  > Laws may appropriately limit people's liberties in order to prevent these people from doing things that would be bad for them, even when such things would be harmless to others. 法律可能会适当限制人们的自由，以防止这些人做对他们不利的事情，即使这些事情对他人无害。
 	- **Harm principle**
 		-
-		  > The only legitimate rea
+		  > The only legitimate reason for limiting a person's freedom is to prevent harm to others. 限制个人自由的唯一合法理由是防止对其他人造成伤害。
 	- **Principle of Moralism**
+		-
+		  > It is legitimate to limit people
 	- **Left libertarianism**
 		-
 		  > There should be initial redistribution, so that people have roughly equal opportunities 应该有初步的再分配，让人们有大致平等的机会
