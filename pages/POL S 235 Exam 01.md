@@ -58,4 +58,8 @@
 		-
 		  > You can't possibly be wrong about your own state of happiness. Defines happiness in terms of experiences like pleasure or satisfaction.
 		  > 你不可能对自己的幸福状态有什么误解。 根据愉悦或满足等体验来定义幸福。
-	- Objective view of happiness
+	- What is the **Objective view of happiness**
+		-
+		  > People are sometimes wrong about whether they are truly happy. 
+		  > 人们有时会错误地判断自己是否真的快乐。
+	- Intrinsic value
