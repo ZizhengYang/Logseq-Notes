@@ -57,6 +57,7 @@
 				- 监督增加社会成本
 			- 自由一定会导致强者对弱者的剥削
 				- Luck egalitarianism，
+				- 信息差，社会保障
 			- Principle of paternalism
 	- 3) What is the libertarian self-ownership argument against economic redistribution? Is it more persuasive than the objections against it?
 	  3) 反对经济再分配的自由主义自我所有权论点是什么？它比反对它的反对意见更有说服力吗？
