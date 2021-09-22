@@ -70,7 +70,7 @@
 		  > Direct wants 直接想要
 	- **Second order desires**
 		-
-		  > Desire
+		  > Desire about what kind of desires you want to have. 渴望你想要拥有什么样的渴望。
 	- **Subjective view of freedom**
 	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
 		-
