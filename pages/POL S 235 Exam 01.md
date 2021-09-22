@@ -108,6 +108,8 @@
 	- Welfare egalitarianism
 	- Equality of opportunity
 	- **Sufficientarianism**
+	- John Rawls
+	- Robert Nozick
 	- **Left libertarianism**
 		-
 		  > There should be initial redistribution, so that people have roughly equal opportunities 应该有初步的再分配，让人们有大致平等的机会
