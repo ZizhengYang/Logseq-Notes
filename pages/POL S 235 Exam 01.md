@@ -78,7 +78,7 @@
 		  > 一个人是否自由取决于他的处境，而不是他的感受。人们有时会错误地判断自己是否真的快乐。
 	- **Republican liberty**
 		-
-		  >
+		  > People are free just in case no one has the power to dominate or unjustly restrict their liberty 人们是自由的，以防万一没有人有权支配或不公正地限制他们的自由
 	- **Positive liberty**
 	- **Negative liberty**
 	- **Principle of paternalism**
