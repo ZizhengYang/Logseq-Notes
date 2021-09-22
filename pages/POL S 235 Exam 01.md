@@ -70,8 +70,12 @@
 		-
 		  > People exclusively pursuit their own happiness in all their voluntary actions 人们在所有自愿行为中只追求自己的幸福
 	- **[[Jeremy Bentham]]**
+		-
+		  > 功利主义者
 	- **[[Robert Nozick]]**
 	- **[[John Stuart Mill]]**
+		-
+		  > 密尔是边沁后功利主义者之一。
 	- **First order desires**
 		-
 		  > Direct wants 直接想要
