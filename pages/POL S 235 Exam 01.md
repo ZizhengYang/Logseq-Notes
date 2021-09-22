@@ -67,5 +67,7 @@
 		-
 		  > Wether a person is free depends on his situation, not on the way he feel. People are sometimes wrong about whether they are truly happy. 
 		  > 一个人是否自由取决于他的处境，而不是他的感受。人们有时会错误地判断自己是否真的快乐。
-	-
+	- **Left libertarianism**
+		-
+		  >
 	- Intrinsic value
