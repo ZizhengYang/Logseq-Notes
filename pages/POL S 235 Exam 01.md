@@ -50,7 +50,9 @@
 	  2) 人们是否应该为了经济利益而出售自己的器官？一般来说，应该买卖什么样的东西，应该遵循什么原则？
 		- 人们应该为了经济利益而出售自己的器官
 		- **人们不应该为了经济利益而出售自己的器官**
-			- 定价 获利 供求关系 价格上涨
+			- 防止故意伤害
+				- 定价 获利 供求关系 价格上涨 并未改善器官短缺
+				- 监督增加社会成本
 	- 3) What is the libertarian self-ownership argument against economic redistribution? Is it more persuasive than the objections against it?
 	  3) 反对经济再分配的自由主义自我所有权论点是什么？它比反对它的反对意见更有说服力吗？
 		- **反对经济再分配的自由主义自我所有权论点是什么？**
