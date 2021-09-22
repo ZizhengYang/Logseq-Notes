@@ -96,7 +96,7 @@
 		  > It is legitimate to limit people's liberty in order to prevent them from doing things that are morally wrong, even when their actions are harmless. 限制人们的自由以防止他们做不道德的事情是合法的，即使他们的行为是无害的。
 	- **Plural values principle**
 		-
-		  > In a society that protects freedom of conscience and whose citizens do not all share the same moral values, it is oppressive and unjust for some people to use the force of law to impose their parochi
+		  > In a society that protects freedom of conscience and whose citizens do not all share the same moral values, it is oppressive and unjust for some people to use the force of law to impose their parochial moral values on other people, whose values are different. 在一个保护良心自由且其公民并非都具有相同道德价值观的社会中，某些人利用法律的力量将其狭隘的道德价值观强加于其他价值观不同的人是压迫和不公正的。
 	- **Left libertarianism**
 		-
 		  > There should be initial redistribution, so that people have roughly equal opportunities 应该有初步的再分配，让人们有大致平等的机会
