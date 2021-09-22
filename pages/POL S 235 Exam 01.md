@@ -77,4 +77,5 @@
 	- **Left libertarianism**
 		-
 		  > there should be initial redistribution, so that people have roughly equal opportunities
-	- Intrinsic value
+	- **Sufficientarianism**
+	-
