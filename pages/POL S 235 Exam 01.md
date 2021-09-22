@@ -56,10 +56,10 @@
 	- **Subjective view of happiness**
 	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
 		-
-		  > You can't possibly be wrong about your own state of happiness. Defines happiness in terms of experiences like pleasure or satisfaction.
+		  > A person is free if she believes herself to be free. Defines happiness in terms of experiences like pleasure or satisfaction.
 		  > 你不可能对自己的幸福状态有什么误解。 根据愉悦或满足等体验来定义幸福。
 	- **Objective view of happiness**
 		-
-		  > WetherPeople are sometimes wrong about whether they are truly happy. 
-		  > 人们有时会错误地判断自己是否真的快乐。
+		  > Wether a person is free depends on his situation, not on the way he feel. People are sometimes wrong about whether they are truly happy. 
+		  > 一个人是否自由取决于他的处境，而不是他的感受。人们有时会错误地判断自己是否真的快乐。
 	- Intrinsic value
