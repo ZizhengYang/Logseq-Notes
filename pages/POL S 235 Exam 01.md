@@ -123,7 +123,7 @@
 		  > Treat equals equally, and treat unequals unequally 平等对待，不平等对待不平等
 	- **Formal principle of equality**
 		-
-		  >
+		  > People should be treated as equals unless there are good reasons just
 	- **Resource egalitarianism**
 	- **Luck egalitarianism**
 	- **Welfare egalitarianism**
