@@ -138,7 +138,7 @@
 		  > Everyone should have the same opportunity as others to achieve her aims or to acquires goods and resources 每个人都应该有和其他人一样的机会来实现自己的目标或获得商品和资源
 	- **Sufficientarianism**
 		-
-		  >
+		  > It doesn't matter whether or not people are equally provided with opportunities or wealth, what matter is that epople should not lack
 	- **[[John Rawls]]**
 	- **[[Robert Nozick]]**
 	- **Left libertarianism**
