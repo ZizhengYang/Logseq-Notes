@@ -119,6 +119,8 @@
 	- Procrustes 普鲁斯特
 	- Egalitarian 平等主义者
 	- **Aristotle's principle of proportional equality**
+		-
+		  >
 	- **Formal principle of equality**
 	- **Resource egalitarianism**
 	- **Luck egalitarianism**
