@@ -54,7 +54,10 @@
 		-
 		  > Happiness, freedom, equality, justice
 	- **Utilitarianism**
-	- *Psychological egoism*
+	- **Psychological egoism**
+	- **Jeremy Bentham**
+	- **First order desires**
+	- **Second order desires**
 	- **Subjective view of happiness**
 	  id:: 614a9c10-66ad-4e5d-b803-cb9ff57c2bf5
 		-
