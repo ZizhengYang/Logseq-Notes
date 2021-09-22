@@ -66,6 +66,7 @@
 	- **Utilitarianism**
 	- **Psychological egoism**
 	- **Jeremy Bentham**
+	-
 	- **First order desires**
 		-
 		  > Direct wants 直接想要
