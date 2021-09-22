@@ -64,6 +64,8 @@
 		-
 		  > Happiness, freedom, equality, justice
 	- **Utilitarianism**
+		-
+		  > Actions and policies should be judged according to the aggregate amount of happiness or well-being they produce. Actions are morally beeter the more happinr
 	- **Psychological egoism**
 	- **Jeremy Bentham**
 	- **[[Robert Nozick]]**
