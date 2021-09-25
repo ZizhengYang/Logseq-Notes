@@ -22,9 +22,10 @@
 		- $6^{th}$ Avenue New York
 		- then, elevated+horse, by 1854 (a year later)
 		- disadvantages:
-			- cast street shadow
-			- horse waste
-			- bad for storefronts
+			- cast street shadow 投下街影
+			- horse waste 马粪
+			- bad for storefronts 对店面不利
 		- advantages:
 			- we can live outside the cities
-			-
+				- new life style
+		- [[Streetcar]]
