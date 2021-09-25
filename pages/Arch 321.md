@@ -23,3 +23,8 @@
 		- then, elevated+horse, by 1854 (a year later)
 		- disadvantages:
 			- cast street shadow
+			- horse waste
+			- bad for storefronts
+		- advantages:
+			- we can live outside the cities
+			-
