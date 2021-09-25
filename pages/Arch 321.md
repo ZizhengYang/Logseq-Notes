@@ -36,4 +36,10 @@
 	- [[Grand Central Terminal]]
 		- 1885
 			- Imperial grand building
+			- super decorated
+		- 1913
+			- still there today
+			- Roman architecture
+			- add - France decoration
+			- giant window, glowing sunshine!!!! Amazing
 		-
