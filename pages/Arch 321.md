@@ -28,8 +28,8 @@
 		- advantages:
 			- we can live outside the cities
 				- new life style
-		- [[Streetcar]] -> Electric Railroad
-			- What's next?
-				- Depressed Railway?
-				- Elevated Railway
-		-
+	- [[Streetcar]] -> Electric Railroad
+		- What's next?
+			- Depressed Railway?
+			- Elevated Railway
+	-
