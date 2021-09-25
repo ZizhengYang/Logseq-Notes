@@ -1,6 +1,0 @@
-- TO DO
-	- PHYS 480 Assignment 01
-	- PHYS 480 Assignment 02
-	- PHYS 480 Assignment 03
-	- [[PHYS 480 Exam 01]]
-	- Assignment 04

@@ -1,4 +1,0 @@
-- 他是谁：son of Esarhaddon
-- 他为何如此重要：The territory of Assyria reached its pre-collapse peak
-- 他何时生活：7 centry BC
-- 画蛇添足：Continue to execute brutal warfare

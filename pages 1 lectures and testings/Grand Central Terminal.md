@@ -1,6 +1,0 @@
-- Be transported by the iconic beauty and lasting legacy of Grand Central Terminal. This historic world-famous landmark in Midtown Manhattan is not simply a transportation hub—it’s also a shopping, dining, and cultural destination with 60 shops, 35 places to eat, and a full calendar of events all under one magnificent roof.
-- 被中央车站的标志性美景和持久遗产所震撼。 这座位于曼哈顿中城的历史悠久、举世闻名的地标不仅是一个交通枢纽，还是一个购物、餐饮和文化胜地，拥有 60 家商店、35 个餐饮场所和一系列活动，所有这些都在一个宏伟的屋檐下。
-- Opened to the public in February 1913, Grand Central Terminal is a story of great engineering, survival, and rebirth. In 1978, architect Philip Johnson and First Lady Jacqueline Kennedy Onassis campaigned to secure landmark status for the Terminal, ensuring the building would serve New Yorkers for generations to come.
-- 中央车站于 1913 年 2 月向公众开放，是一个关于伟大工程、生存和重生的故事。 1978 年，建筑师菲利普·约翰逊 (Philip Johnson) 和第一夫人杰奎琳·肯尼迪·奥纳西斯 (Jacqueline Kennedy Onassis) 发起竞选活动，以确保航站楼的地标性地位，确保该建筑能够为纽约人的子孙后代服务。
-- Grand Central Terminal is one of the country’s great architectural achievements and New York City’s unofficial meeting place with thousands of people choosing to “meet me at the clock” – rendezvousing with friends and loved ones each day at the opal-faced Main Concourse Information Booth Clock.
-- 中央车站是该国(米国)最伟大的建筑成就之一，也是纽约市的非官方聚会场所，成千上万的人选择“准时与我会面”——每天在蛋白石面的主大厅信息亭与朋友和亲人会面 .
