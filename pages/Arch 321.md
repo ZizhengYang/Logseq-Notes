@@ -32,4 +32,5 @@
 		- What's next?
 			- Depressed Railway?
 			- Elevated Railway
+	- **Train opened the connections between cities**
 	-
