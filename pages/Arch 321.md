@@ -28,4 +28,5 @@
 		- advantages:
 			- we can live outside the cities
 				- new life style
-		- [[Streetcar]]
+		- [[Streetcar]] -> Elevated Railroad
+		-
