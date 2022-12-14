@@ -1,0 +1,25 @@
+{:logseq-heatmap
+ {:version "v2.4.3", :repo "pengx17/logseq-plugin-heatmap", :effect true, :theme false}
+ :logseq-journals-calendar {:version "0.10.5", :repo "xyhp915/logseq-journals-calendar", :effect false, :theme false}
+ :logseq-todo-master {:version "v1.10.3", :repo "pengx17/logseq-plugin-todo-master", :effect false, :theme false}
+ :logseq-todo-plugin {:version "v1.12.1", :repo "ahonn/logseq-plugin-todo", :effect true, :theme false}
+ :logseq-link-preview {:version "v2.2.9", :repo "pengx17/logseq-plugin-link-preview", :effect true, :theme false}
+ :logseq-plugin-gpt3-openai {:version "v1.3.1", :repo "briansunter/logseq-plugin-gpt3-openai", :effect true, :theme false}
+ :logseq-tags {:version "v0.1.2", :repo "gidongkwon/logseq-plugin-tags", :effect false, :theme false}
+ :logseq-bullet-threading {:version "v1.1.1", :repo "pengx17/logseq-plugin-bullet-threading", :effect false, :theme false}
+ :logseq-tabs {:version "v1.18.1", :repo "pengx17/logseq-plugin-tabs", :effect true, :theme false}
+ :logseq-mark-map {:version "v0.3.9", :repo "vipzhicheng/logseq-plugin-mark-map", :effect false, :theme false}
+ :logseq-block-to-page {:version "v1.3.0", :repo "hyrijk/logseq-plugin-block-to-page", :effect false, :theme false}
+ :logseq-markdown-table {:version "v1.7.0", :repo "haydenull/logseq-plugin-markdown-table", :effect false, :theme false}
+ :logseq-random-note {:version "1.0.9", :repo "tankcool/logseq-random-note", :effect false, :theme false}
+ :logseq-awesome-links {:version "v1.14.3", :repo "yoyurec/logseq-awesome-links", :effect true, :theme false}
+ :logseq-charspacing {:version "v1.3.0", :repo "sethyuan/logseq-plugin-charspacing", :effect true, :theme false}
+ :logseq-automatic-linker {:version "1.4.0", :repo "sawhney17/logseq-automatic-linker", :effect false, :theme false}
+ :logseq-banners-plugin {:version "v3.4.5", :repo "yoyurec/logseq-banners-plugin", :effect true, :theme false}
+ :logseq-diagrams-as-code {:version "0.0.14", :repo "npgrosser/logseq-diagrams-as-code", :effect false, :theme false}
+ :logseq-osmmaps-plugin {:version "2.0.0", :repo "hkgnp/logseq-osmmaps-plugin", :effect true, :theme false}
+ :logseq-helium-plugin {:version "v.2.1.1", :repo "vyleung/logseq-helium-plugin", :effect true, :theme false}
+ :logseq-emoji-picker-fork {:version "v0.0.2", :repo "walsvid/logseq-emoji-picker-fork", :effect false, :theme false}
+ :logseq-pen {:version "v0.0.2", :repo "vipzhicheng/logseq-plugin-pen", :effect false, :theme false}
+ :logseq-datenlp-plugin {:version "3.13.3", :repo "hkgnp/logseq-datenlp-plugin", :effect true, :theme false}
+ :logseq-reference-styles {:version "v0.0.3", :repo "benjaffe/logseq-reference-styles", :effect false, :theme false}}

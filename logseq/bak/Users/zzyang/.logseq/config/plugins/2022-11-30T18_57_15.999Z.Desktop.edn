@@ -1,0 +1,5 @@
+{:logseq-heatmap
+ {:version "v2.3.3",
+  :repo "pengx17/logseq-plugin-heatmap", 
+  :effect true, 
+  :theme false}}

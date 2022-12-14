@@ -159,8 +159,8 @@
  ;; With the default value of level 2, `b` will be collapsed.
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
  :ref/default-open-blocks-level 2
- :graph/settings {:journal? true, :builtin-pages? false, :orphan-pages? true}
- :favorites ["REFERENCE STYLES"]
+ :graph/settings {:journal? false, :builtin-pages? false, :orphan-pages? true}
+ :favorites ["@" "逻辑关系列表"]
  :zotero/settings-v2 {"default" {:type-id ""}}
  :feature/enable-whiteboards? true
 
