@@ -35,6 +35,7 @@ icon:: 😀
 		- [[Cognition/By_business]]
 - [[Resource]]
 	- [[Resource/Image]]
+		- [[Resource/Image/Visualizing linear algebra]]
 	- [[Resource/Topic]]
 - [[Course]]
 	- [[Course/YouTube]]
