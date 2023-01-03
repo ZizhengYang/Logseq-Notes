@@ -1,0 +1,6 @@
+icon:: 🇺🇸
+
+-
+- ## Reference
+	- ![CITY OF SAN DIEGO AND SAN DIEGO COUNTY THE BIRTHPLACE OF CALIFORNIA](/Users/zzyang/Documents/Books/K9 地理/K97 美洲地理/CITY OF SAN DIEGO AND SAN DIEGO COUNTY THE BIRTHPLACE OF CALIFORNIA.pdf)
+- ## San Diego

@@ -1,3 +1,42 @@
-- [[Project]]
-	- [[Project/First Principal calculation of diamond NV center and ST1 center structure]]
+icon:: 😀
+
 -
+- [[Project/BrainStorm]]
+	- [[Project/BrainStorm/Bilibili_video]]
+- [[Project]]
+  id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
+	- [[Project/Research]]
+		- [[Project/Research/First Principal calculation of diamond NV center and ST1 center structure]]
+		- [[Project/Research/Using the topology to study the AI explainability]] #@/byl
+		- [[Project/Research/Video reference and graph]] #@/byl #@/byl_mom
+	- [[Project/App]]
+		- [[Project/App/News_App]] #@/wph
+		- [[Project/App/Budget_Income_Outcome_Management_App]]
+	- [[Project/Startup]]
+		- [[Project/Startup/AI_based_Skincare]] #@/S.Chen #@/Zeng
+		- [[Project/Startup/AI_based_Skincare]] #@/S.Chen
+	- [[Project/Writing]]
+		- [[Project/Writing/From data to insight, how science shaped our world]]
+		- [[Project/Writing/What is power and how regime works]] #@/byl
+		- [[Project/Writing/An overall analysis of CCP academically]]
+		- [[Project/Writing/People that have been working on changing the world]]
+		- [[Project/Writing/Access to knowledge and free culture]]
+		- [[Project/Writing/Fermi Paradox, three body, dark forest and cosmic civilization]]
+		- [[Project/Writing/Game theory, games, and how to simulated real world]]
+	- [[Project/Design]]
+		- [[Project/Design/Excerpts and pictures from ancient texts]]
+- [[Cognition]]
+	- [[Cognition/By_geo]]
+		- [[Cognition/By_geo/San Diego]]
+		- [[Cognition/By_geo/San Diego]]
+	- [[Cognition/By_time]]
+	- [[Cognition/By_subject]]
+	- [[Cognition/By_business]]
+		- [[Cognition/By_business]]
+- [[Resource]]
+	- [[Resource/Image]]
+	- [[Resource/Topic]]
+- [[Course]]
+	- [[Course/YouTube]]
+		- [[Course/YouTube/Optoelectronic and Photonic Devices - Jordan Edmunds]]
+		-

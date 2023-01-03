@@ -160,7 +160,7 @@
  ;; If we set the level's value to 3, `b` will be opened and `c` will be collapsed.
  :ref/default-open-blocks-level 2
  :graph/settings {:journal? true, :builtin-pages? false, :orphan-pages? true}
- :favorites ["Contents" "IDEAS" "IDEA" "EMOJI STYLES" "REFERENCE STYLES"]
+ :favorites ["Highlight Coloring" "Contents" "IDEAS" "IDEA" "EMOJI STYLES" "REFERENCE STYLES"]
  :zotero/settings-v2 {"default" {:type-id ""}}
  :feature/enable-whiteboards? true
  :feature/enable-journals? false

@@ -1,3 +1,0 @@
-- 1.1 【智慧的痛苦】课程概述
-	- {{video https://www.youtube.com/watch?v=X5X57ptuFBs&list=PLo-doLFu5YMTNDEd2P3hIrTYdnpTRqWV5}}
-	-
