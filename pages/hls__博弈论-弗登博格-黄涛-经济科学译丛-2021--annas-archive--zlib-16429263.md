@@ -51,9 +51,13 @@ file-path:: /Users/zzyang/Documents/Books/O1 数学/O29 应用数学-博弈论/�
 					  background-color:: green
 						- 参与人集合 $i \in \mathscr{I}=\{1,2, \cdots, I\}$
 						  background-color:: green
-						- 已有纯策略 $s_i$，$\sigma_i\left(s_i\right)$ 是选择这些纯策略的概率
+						- 已有纯策略 $s_i$，$\sigma_i\left(s_i\right)$ 是概率加权
 						  background-color:: green
-						- 这些基向量构成纯策略空间 $S_i$
+						- 这些策略向量构成纯策略空间 $\sum_i$
+						  background-color:: green
+						- 给出组合 $\sigma$ 的时候就决定了策略的概率分布
+						  background-color:: green
+						- $\prod_{j=1}^I \sigma_j\left(s_j\right)$ 对一个由一系列参与人决策决定的格子，它发生的概率是多少
 						  background-color:: green
 				- 博弈的结构是共同知识 #博弈-共同知识
 				- 社会科学中的博弈大多是非零和的 #社会科学-博弈
@@ -68,6 +72,11 @@ file-path:: /Users/zzyang/Documents/Books/O1 数学/O29 应用数学-博弈论/�
 					  hl-type:: area
 					  hl-stamp:: 1672730431067
 			- #### 1.1.2 劣势策略
+				- [[重复优势]]
+				- [[严格劣势策略]]
+					- 如果存在 $\sigma_i^{\prime} \in \sum_i$ 使得 $u_i\left(\sigma_i^{\prime}, s_{-i}\right)>u_i\left(s_i, s_{-i}\right),  s_{-i} \in S_{-i}$，那么纯策略 $s_i$ 对于参与人 $i$ 是严格劣势的
+						- $\left(s_i^{\prime}, s_{-i}\right)=\left(s_1, \cdots, s_{i-1}, s_i^{\prime}, s_{i+1}, \cdots, s_I\right)$ 表示只有该参与人改变策略
+							- $s_{-i}$ 表示参与人 $i$ 的对手
 			- #### 1.1.3 剔除劣势策略的应用
 				- [[EXAMPLE/囚徒困境]]
 				- [[EXAMPLE/二级价格拍卖]]
