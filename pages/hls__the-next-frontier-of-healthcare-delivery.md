@@ -73,7 +73,9 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
   ls-type:: annotation
   id:: 63ba7c7e-547b-4b47-a56f-43acca6be1f9
   hl-color:: yellow
-	-
+	- Current home-care segment
+	- Emerging home-care segment
+		- infusions, dialysis, primary care, and hospital-at-home models,
 - ## Value-based and risk-bearing
   ls-type:: annotation
   hl-page:: 8
