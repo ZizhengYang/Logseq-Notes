@@ -7,26 +7,26 @@ icon:: 😀
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
 	- [[Project/Research]]
-		- [[Project/Research/First Principal calculation of diamond NV center and ST1 center structure]] #yzz
-		- [[Project/Research/The Probabilistic Data Association Filter]] #byl #yzz
-		- [[Project/Research/Using the topology to study the AI explainability]] #yzz #byl
-		- [[Project/Research/Video reference and graph]] #@/byl_mom #byl #yzz
+		- TODO [[Project/Research/First Principal calculation of diamond NV center and ST1 center structure]] #@/yzz
+		- TODO [[Project/Research/The Probabilistic Data Association Filter]] #@/byl #@/yzz
+		- TODO [[Project/Research/Using the topology to study the AI explainability]] #@/yzz #@/byl
+		- TODO [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
 	- [[Project/App]]
-		- [[Project/App/News_App]] #yzz #@/wph
-		- [[Project/App/Budget_Income_Outcome_Management_App]] #yzz
+		- [[Project/App/News_App]] #@/yzz #@@/wph
+		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
-		- [[Project/Startup/AI_based_Skincare]] #yzz #@/S.Chen #@/Zeng
-		- [[Project/Startup/AI_based_Skincare]] #yzz #@/S.Chen
+		- [[Project/Startup/AI_based_Skincare]] #@/yzz #@@/S.Chen #@@/Zeng
+		-
 	- [[Project/Writing]]
-		- [[Project/Writing/From data to insight, how science shaped our world]] #yzz
-		- [[Project/Writing/What is power and how regime works]] #yzz #byl
-		- [[Project/Writing/An overall analysis of CCP academically]] #yzz
-		- [[Project/Writing/People that have been working on changing the world]] #yzz
-		- [[Project/Writing/Access to knowledge and free culture]] #yzz
-		- [[Project/Writing/Fermi Paradox, three body, dark forest and cosmic civilization]] #yzz
-		- [[Project/Writing/Game theory, games, and how to simulated real world]] #yzz
+		- [[Project/Writing/From data to insight, how science shaped our world]] #@/yzz
+		- [[Project/Writing/What is power and how regime works]] #@/yzz #@/byl
+		- [[Project/Writing/An overall analysis of CCP academically]] #@/yzz
+		- [[Project/Writing/People that have been working on changing the world]] #@/yzz
+		- [[Project/Writing/Access to knowledge and free culture]] #@/yzz
+		- [[Project/Writing/Fermi Paradox, three body, dark forest and cosmic civilization]] #@/yzz
+		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
 	- [[Project/Design]]
-		- [[Project/Design/Excerpts and pictures from ancient texts]]
+		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Cognition]]
 	- [[Cognition/By_geo]]
 		- [[Cognition/By_geo/San Diego]]

@@ -59,8 +59,8 @@ file-path:: /Users/zzyang/Documents/Books/O1 数学/O29 应用数学-博弈论/�
 						  background-color:: green
 						- $\prod_{j=1}^I \sigma_j\left(s_j\right)$ 对一个由一系列参与人决策决定的格子，它发生的概率是多少
 						  background-color:: green
-				- 博弈的结构是共同知识 #博弈-共同知识
-				- 社会科学中的博弈大多是非零和的 #博弈-社会科学
+				- 博弈的结构是共同知识
+				- 社会科学中的博弈大多是非零和的
 				- [[EXAMPLE/上中下，左中右双人博弈]]
 					- 这是一个有限双人博弈
 					- 这是一个纯策略博弈
@@ -82,13 +82,13 @@ file-path:: /Users/zzyang/Documents/Books/O1 数学/O29 应用数学-博弈论/�
 						- $\left(s_i^{\prime}, s_{-i}\right)=\left(s_1, \cdots, s_{i-1}, s_i^{\prime}, s_{i+1}, \cdots, s_I\right)$ 表示只有该参与人改变策略
 							- $s_{-i}$ 表示参与人 $i$ 的对手
 					- 这是纯策略下的定义，但是混合策略也可以是严格劣势的
-				- $u_i\left(\sigma_i^{\prime}, \sigma_{-i}\right)>u_i\left(s_i, \sigma_{-i}\right) \Rightarrow u_i\left(\sigma_i^{\prime}, s_{-i}\right)>u_i\left(s_i, s_{-i}\right)$ #纯策略-混合策略/纯策略-混合策略-严格劣势策略
-				- 收益和策略空间组成了共同知识 #博弈-共同知识
+				- $u_i\left(\sigma_i^{\prime}, \sigma_{-i}\right)>u_i\left(s_i, \sigma_{-i}\right) \Rightarrow u_i\left(\sigma_i^{\prime}, s_{-i}\right)>u_i\left(s_i, s_{-i}\right)$
+				- 收益和策略空间组成了共同知识
 				- [[EXAMPLE/学生们模拟博弈并未达成重复优势求解]]
 			- #### 1.1.3 剔除劣势策略的应用
 				- [[EXAMPLE/囚徒困境]]
 					- 一轮剔除严格劣势策略就提供了唯一答案
-					- 囚徒困境涉及到很多社会科学中的道德风险问题 #博弈-社会科学
+					- 囚徒困境涉及到很多社会科学中的道德风险问题
 				- [[EXAMPLE/二级价格拍卖]]
 					- 参与人集合 $i \in \mathscr{I}=\{1,2, \cdots, I\}$ 是潜在买主们
 						- 每个人有自己的估价 $v_i$
