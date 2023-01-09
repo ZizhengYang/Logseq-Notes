@@ -50,6 +50,14 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
 		- Future expectation: grow
 			- Reason: favorable consumer perception and ongoing investment
 	- Shifting to virtual setting
+		- [:span]
+		  ls-type:: annotation
+		  hl-page:: 6
+		  hl-color:: yellow
+		  id:: 63bb7b2e-ed8c-4285-bc8f-a6cc877bb8b5
+		  hl-type:: area
+		  hl-stamp:: 1673231149818
+			-
 	- Virtual models could revolutionize care delivery
 	  ls-type:: annotation
 	  hl-page:: 4
