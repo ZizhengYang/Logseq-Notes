@@ -57,7 +57,6 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
 		  id:: 63bb7b2e-ed8c-4285-bc8f-a6cc877bb8b5
 		  hl-type:: area
 		  hl-stamp:: 1673231149818
-			-
 	- Virtual models could revolutionize care delivery
 	  ls-type:: annotation
 	  hl-page:: 4
