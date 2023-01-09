@@ -1,10 +1,12 @@
-- ## Current product structure
-	- Bi-linked note applications
-		- Logseq
-		- Obsidian
-		- 思源笔记
-		- Notion
-- ## User path
+- ## Current product study
+	- ### Current products' structure
+		- Bi-linked note applications
+			- Logseq
+			- Obsidian
+			- 思源笔记
+			- Notion
+	- ### User path of current products
+	- ### Data structure design of current products
 - ## Ideology
 	-
 - ## Our product structure
