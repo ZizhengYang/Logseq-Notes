@@ -57,16 +57,12 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
 		  id:: 63bb7b2e-ed8c-4285-bc8f-a6cc877bb8b5
 		  hl-type:: area
 		  hl-stamp:: 1673231149818
-	- Virtual models could revolutionize care delivery
-	  ls-type:: annotation
-	  hl-page:: 4
-	  hl-color:: yellow
-	  id:: 63bb7a6c-710d-4a79-8799-7f930f9f4446
-	- Healthcare leaders should ensure that their approaches are patient-centric and do not unintentionally worsen health inequities
-	  hl-page:: 4
-	  ls-type:: annotation
-	  id:: 63bb7cef-d54b-4317-b552-af5afa2a59a8
-	  hl-color:: purple
+	- Leaders should:
+		- Healthcare leaders should ensure that their approaches are patient-centric and do not unintentionally worsen health inequities
+		  hl-page:: 4
+		  ls-type:: annotation
+		  id:: 63bb7cef-d54b-4317-b552-af5afa2a59a8
+		  hl-color:: purple
 - ## In the home
   ls-type:: annotation
   hl-page:: 7
