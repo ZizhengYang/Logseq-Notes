@@ -1,4 +1,8 @@
 - ## Current product structure
 	- Bi-linked note applications
 		- Logseq
-		- Obsi
+		- Obsidian
+		- 思源笔记
+		- Notion
+- ## User path
+- ## My stru
