@@ -4,11 +4,14 @@
 			- Logseq
 			- Obsidian
 			- 思源笔记
+		- Database note applica
 			- Notion
+		-
 	- ### User path of current products
 	- ### Data structure design of current products
-	- ### Problem with
+	- ### Problem with current products
 - ## Reference
+- ## NLP learning process
 - ## Ideology
 	-
 - ## Our product
