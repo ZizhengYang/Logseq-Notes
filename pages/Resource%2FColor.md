@@ -1,0 +1,2 @@
+- SCI，但是原神~当SCI论文插图遇见原神稻妻城 - 阿昆的科研日常的文章 - 知乎 https://zhuanlan.zhihu.com/p/597255334
+-
