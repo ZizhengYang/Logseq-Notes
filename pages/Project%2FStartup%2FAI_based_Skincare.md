@@ -1,7 +1,7 @@
 - ## 👬🏻 Collaborate
 	- Start-up https://drive.google.com/drive/folders/1xiMqaZ8idrKEouEmjNiFQlBL_eUKj4Kg
 		- Brainstorm https://drive.google.com/drive/folders/1nc5HToGCxz1f1cxf_I0a0-wdlPXPVM72
-			- Brain Storm https://docs.google.com/document/d/1T8pMlmyiEhJRwPrCz1rrCswQM5BULwmGCONlUb3GC1c/edit
+			- Startup Ideas https://docs.google.com/document/d/1T8pMlmyiEhJRwPrCz1rrCswQM5BULwmGCONlUb3GC1c/edit
 - ## Reference
 	- The next frontier of healthcare delivery --- Ten big shifts will define the future of care delivery in the United States
 		- ![the-next-frontier-of-healthcare-delivery](/Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthcare-delivery.pdf) [[hls__the-next-frontier-of-healthcare-delivery]]
