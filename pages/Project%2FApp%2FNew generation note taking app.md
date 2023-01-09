@@ -4,17 +4,19 @@
 			- Logseq
 			- Obsidian
 			- 思源笔记
-		- Database note applica
+		- Database note applications
 			- Notion
-		-
+		- Pdf note applications
+			-
+			- Zotero
 	- ### User path of current products
 	- ### Data structure design of current products
 	- ### Problem with current products
 - ## Reference
-- ## NLP learning process
 - ## Ideology
 	-
 - ## Our product
 	- ### 2022 Jan
 - ## Tech deck
-	-
+	- ## Backend
+	- ### NLP
