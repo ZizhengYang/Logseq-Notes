@@ -13,6 +13,7 @@ icon:: 😀
 		- TODO [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
 	- [[Project/App]]
 		- [[Project/App/News_App]] #@/yzz #@@/wph
+		- [[Project/App/New generation note taking app]] #@/yzz
 		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
 		- [[Project/Startup/AI_based_Skincare]] #@/yzz #@@/S.Chen #@@/Zeng
