@@ -16,7 +16,7 @@ icon:: 😀
 		- [[Project/App/New generation note taking app]] #@/yzz
 		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
-		- [[Project/Startup/AI_based_Skincare]] #@/yzz #@@/S.Chen #@@/Zeng
+		- [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
 		- [[Project/Writing/From data to insight, how science shaped our world]] #@/yzz
 		- [[Project/Writing/What is power and how regime works]] #@/yzz #@/byl
