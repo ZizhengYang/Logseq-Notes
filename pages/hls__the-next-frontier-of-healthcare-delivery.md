@@ -74,8 +74,15 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
   id:: 63ba7c7e-547b-4b47-a56f-43acca6be1f9
   hl-color:: yellow
 	- Current home-care segment
+		- post-acute home health
+		- personal-care services
 	- Emerging home-care segment
-		- infusions, dialysis, primary care, and hospital-at-home models,
+		- infusions
+		- dialysis
+		- primary care
+		- hospital-at-home models
+	- Current home-care segment size: $75 billion to $85 billion in 2019
+	-
 - ## Value-based and risk-bearing
   ls-type:: annotation
   hl-page:: 8
