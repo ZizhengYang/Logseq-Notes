@@ -25,7 +25,7 @@ icon:: 😀
 		- [[Project/Writing/Access to knowledge and free culture]] #@/yzz
 		- [[Project/Writing/Fermi Paradox, three body, dark forest and cosmic civilization]] #@/yzz
 		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
-		- [[Project/Writing]]
+		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
 	- [[Project/Design]]
 		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Cognition]]
