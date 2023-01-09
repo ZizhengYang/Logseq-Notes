@@ -7,6 +7,11 @@
 			- Notion
 	- ### User path of current products
 	- ### Data structure design of current products
+	- ### Problem with
+- ## Reference
 - ## Ideology
 	-
-- ## Our product structure
+- ## Our product
+	- ### 2022 Jan
+- ## Tech deck
+	-
