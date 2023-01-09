@@ -74,8 +74,9 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
   id:: 63ba7c7e-547b-4b47-a56f-43acca6be1f9
   hl-color:: yellow
 	- Current home-care segment
-		- post-acute home health
-		- personal-care services
+		- commoditized services
+			- post-acute home health
+			- personal-care services
 	- Emerging home-care segment
 		- infusions
 		- dialysis
