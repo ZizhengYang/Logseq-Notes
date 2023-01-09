@@ -1,0 +1,4 @@
+- ## Current product structure
+	- Bi-linked note applications
+		- Logseq
+		- Obsi
