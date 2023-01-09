@@ -40,7 +40,7 @@ icon:: 😀
 	- [[Resource/Image]]
 		- [[Resource/Image/Visualizing linear algebra]]
 	- [[Resource/Topic]]
-	- [[Resource]]
+	- [[Resource/]]
 - [[Course]]
 	- [[Course/YouTube]]
 		- [[Course/YouTube/Optoelectronic and Photonic Devices - Jordan Edmunds]]
