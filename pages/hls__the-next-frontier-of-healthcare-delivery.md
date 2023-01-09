@@ -62,6 +62,11 @@ file-path:: /Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthc
 	  hl-page:: 4
 	  hl-color:: yellow
 	  id:: 63bb7a6c-710d-4a79-8799-7f930f9f4446
+	- Healthcare leaders should ensure that their approaches are patient-centric and do not unintentionally worsen health inequities
+	  hl-page:: 4
+	  ls-type:: annotation
+	  id:: 63bb7cef-d54b-4317-b552-af5afa2a59a8
+	  hl-color:: purple
 - ## In the home
   ls-type:: annotation
   hl-page:: 7
