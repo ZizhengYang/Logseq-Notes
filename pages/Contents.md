@@ -5,6 +5,7 @@ icon:: 😀
 	- [[Project/BrainStorm/Bilibili_video]]
 	- [[Project/BrainStorm/Idea_to_test_and_investigate]]
 	- [[Project/BrainStorm/Application_and_coding]]
+	- [[Project/BrainStorm/Something should write about]]
 - [[Workflow]]
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
