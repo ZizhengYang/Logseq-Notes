@@ -44,4 +44,5 @@ icon:: 😀
 - [[Course]]
 	- [[Course/YouTube]]
 		- [[Course/YouTube/Optoelectronic and Photonic Devices - Jordan Edmunds]]
-	-
+	- [[Course/UCSC]]
+		- [[Course/UCSC/PHYS 214 Electromagnetism II]]
