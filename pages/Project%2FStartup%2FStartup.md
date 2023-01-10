@@ -4,5 +4,8 @@
 			- Startup Ideas https://docs.google.com/document/d/1T8pMlmyiEhJRwPrCz1rrCswQM5BULwmGCONlUb3GC1c/edit
 			- Question to be investigated in business proposal
 - ## Reference
-	- The next frontier of healthcare delivery --- Ten big shifts will define the future of care delivery in the United States
-		- ![the-next-frontier-of-healthcare-delivery](/Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthcare-delivery.pdf) [[hls__the-next-frontier-of-healthcare-delivery]]
+	- Healthcare analysis
+	  background-color:: yellow
+		- The next frontier of healthcare delivery --- Ten big shifts will define the future of care delivery in the United States
+			- ![the-next-frontier-of-healthcare-delivery](/Users/zzyang/Documents/Papers/2023 Jan/the-next-frontier-of-healthcare-delivery.pdf)
+				- [[hls__the-next-frontier-of-healthcare-delivery]]
