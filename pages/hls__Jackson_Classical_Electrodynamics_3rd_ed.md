@@ -1,3 +1,4 @@
 - ## CHAPTER 1 Introduction to Electrostatics
 	- ### Coulomb's Law
-	-
+	- ### 1.2 Electric Field
+	- ### 1.3 Gauss's Law
