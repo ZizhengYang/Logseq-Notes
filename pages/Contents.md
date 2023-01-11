@@ -9,7 +9,6 @@ icon:: 😀
 - [[Workflow]]
 - [[Resource]]
 	- [[Resource/Image]]
-		- [[Resource/Image/Visualizing linear algebra]]
 	- [[Resource/Topic]]
 	- [[Resource/Color]]
 	- [[Resource/Sentence]]
