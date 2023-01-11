@@ -1,3 +1,4 @@
 icon:: 🔐
+color:: blue
 
 -

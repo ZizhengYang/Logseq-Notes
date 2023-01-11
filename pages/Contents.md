@@ -21,7 +21,6 @@ icon:: 😀
 	- [[Cognition/By_time]]
 	- [[Cognition/By_subject]]
 	- [[Cognition/By_business]]
-		- [[Cognition/By_business]]
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
 	- [[Project/Research]]
