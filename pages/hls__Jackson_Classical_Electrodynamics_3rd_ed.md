@@ -1,5 +1,7 @@
 - ## CHAPTER 1 Introduction to Electrostatics
 	- ### 1.1 Coulomb's Law
 	- ### 1.2 Electric Field
-		-
+		- 静止带电体之间作用力的实验
+			- 带电物体之间的力
+				-
 	- ### 1.3 Gauss's Law
