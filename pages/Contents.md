@@ -32,6 +32,8 @@ icon:: 😀
 		- [[Project/Writing/What is power and how regime works]] #@/yzz
 		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
 		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
+	- [[Project/Video]]
+		- [[Project/Video/Victoria ideology to studying our world]]
 	- [[Project/Design]]
 		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Course]]
