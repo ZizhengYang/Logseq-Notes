@@ -13,6 +13,7 @@ icon:: 😀
 	- [[Resource/Topic]]
 	- [[Resource/Color]]
 	- [[Resource/Sentence]]
+	- [[Resource/Meme]]
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
 	- [[Project/Research]]
