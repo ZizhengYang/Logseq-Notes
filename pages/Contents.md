@@ -39,6 +39,7 @@ icon:: 😀
 		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Course]]
 	- [[Course/YouTube]]
-		- [[Course/YouTube/Optoelectronic and Photonic Devices - Jordan Edmunds]]
+		- [[Course/YouTube/Optoelectronic and Photonic Devices - Jordan Edmunds]] #@/yzz
 	- [[Course/UCSC]]
-		- [[Course/UCSC/PHYS 214 Electromagnetism II]]
+		- [[Course/UCSC/PHYS 214 Electromagnetism II]] #@/yzz
+		- [[Course/UCSC/PHYS 215]] #@/yzz
