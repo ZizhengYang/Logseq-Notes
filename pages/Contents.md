@@ -38,4 +38,5 @@ icon:: 😀
 		- [[Course/YouTube/Optoelectronic and Photonic Devices - Jordan Edmunds]] #@/yzz
 	- [[Course/UCSC]]
 		- [[Course/UCSC/PHYS 214 Electromagnetism II]] #@/yzz
-		- [[Course/UCSC/PHYS 215]] #@/yzz
+		- [[Course/UCSC/PHYS 215 Introduction to Non-Relativistic Quantum Mechanics ]] #@/yzz
+-
