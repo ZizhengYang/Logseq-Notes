@@ -27,6 +27,7 @@ icon:: 😀
 		- [[Project/App/News_App]] #@/yzz #@@/wph
 		- [[Project/App/New generation note taking app]] #@/yzz
 		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
+		- [[Project/App/Search engine based on AI]]
 	- [[Project/Startup]]
 		- [[Project/Startup/Startup D2C]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
