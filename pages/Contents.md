@@ -5,7 +5,7 @@ icon:: 😀
 	- [[Project/BrainStorm/Bilibili_video]]
 	- [[Project/BrainStorm/Idea_to_test_and_investigate]]
 	- [[Project/BrainStorm/Application_and_coding]]
-	- [[Project/BrainStorm/Something should write about]]
+	- [[Project/BrainStorm/Something_should_write_about]]
 - [[Resource]]
 - [[Workflow]]
 	- [[Workflow]]
