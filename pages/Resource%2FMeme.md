@@ -1,2 +1,2 @@
 - **来自于生活细节中的幽默** https://www.zhihu.com/question/323917042/answer/2763310342
-- **三国演义+学业=笑话**
+- **三国演义+学业=笑话** https://www.zhihu.com/question/323917042/answer/2672368164
