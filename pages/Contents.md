@@ -13,22 +13,30 @@ icon:: 😀
 	- [[Resource/Meme]]
 	- [[Resource/Website]]
 - [[Workflow]]
+	-
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
 	- [[Project/Research]]
-		- TODO [[Project/Research/First Principal calculation of diamond NV center and ST1 center structure]] #@/yzz
-		- TODO [[Project/Research/The Probabilistic Data Association Filter]] #@/byl #@/yzz
-		- TODO [[Project/Research/Using the topology to study the AI explainability]] #@/yzz #@/byl
-		- TODO [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
+		- [[Project/Research/First Principal calculation of diamond NV center and ST1 center structure]] #@/yzz
+		  :LOGBOOK:
+		  CLOCK: [2023-01-11 Wed 01:45:38]--[2023-01-11 Wed 01:45:39] =>  00:00:01
+		  :END:
+		- [[Project/Research/The Probabilistic Data Association Filter]] #@/byl #@/yzz
+		  :LOGBOOK:
+		  CLOCK: [2023-01-11 Wed 01:45:43]--[2023-01-11 Wed 01:45:43] =>  00:00:00
+		  CLOCK: [2023-01-11 Wed 01:45:47]--[2023-01-11 Wed 01:45:47] =>  00:00:00
+		  :END:
+		- [[Project/Research/Using the topology to study the AI explainability]] #@/yzz #@/byl
+		- [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
 	- [[Project/App]]
-		- TODO [[Project/App/News_App]] #@/yzz #@@/wph
-		- TODO [[Project/App/New generation note taking app]] #@/yzz
-		- TODO [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
+		- [[Project/App/News_App]] #@/yzz #@@/wph
+		- [[Project/App/New generation note taking app]] #@/yzz
+		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
-		- TODO [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
+		- [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
-		- TODO [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
-		- TODO [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
+		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
+		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
 	- [[Project/Design]]
 		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Course]]
