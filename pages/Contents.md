@@ -21,8 +21,6 @@ icon:: 😀
 		  CLOCK: [2023-01-11 Wed 01:45:43]--[2023-01-11 Wed 01:45:43] =>  00:00:00
 		  CLOCK: [2023-01-11 Wed 01:45:47]--[2023-01-11 Wed 01:45:47] =>  00:00:00
 		  :END:
-		- [[Project/Research/Using the topology to study the AI explainability]] #@/yzz #@/byl
-		- [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
 	- [[Project/App]]
 		- [[Project/App/News_App]] #@/yzz #@@/wph
 		- [[Project/App/New generation note taking app]] #@/yzz
