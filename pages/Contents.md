@@ -7,7 +7,6 @@ icon:: 😀
 	- [[Project/BrainStorm/Application_and_coding]]
 	- [[Project/BrainStorm/Something should write about]]
 - [[Resource]]
-	- [[Resource/Image]]
 	- [[Resource/Topic]]
 	- [[Resource/Color]]
 	- [[Resource/Sentence]]
