@@ -14,13 +14,8 @@ icon:: 😀
 	- [[Resource/Meme]]
 	- [[Resource/Website]]
 - [[Workflow]]
-- [[Cognition]]
-	- [[Cognition/By_geo]]
-		- [[Cognition/By_geo/San Diego]]
-		- [[Cognition/By_geo/San Diego]]
-	- [[Cognition/By_time]]
-	- [[Cognition/By_subject]]
-	- [[Cognition/By_business]]
+	-
+- [[San Diego]]
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
 	- [[Project/Research]]
