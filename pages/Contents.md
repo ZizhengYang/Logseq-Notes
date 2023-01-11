@@ -24,15 +24,19 @@ icon:: 😀
 		- [[Project/Research/Using the topology to study the AI explainability]] #@/yzz #@/byl
 		- [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
 	- [[Project/App]]
+	  collapsed:: true
 		- [[Project/App/News_App]] #@/yzz #@@/wph
 		- [[Project/App/New generation note taking app]] #@/yzz
 		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
+	  collapsed:: true
 		- [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
+	  collapsed:: true
 		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
 		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
 	- [[Project/Design]]
+	  collapsed:: true
 		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Course]]
 	- [[Course/YouTube]]
