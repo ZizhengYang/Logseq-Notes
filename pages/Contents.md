@@ -14,8 +14,6 @@ icon:: 😀
 	- [[Resource/Meme]]
 	- [[Resource/Website]]
 - [[Workflow]]
-	-
-- [[San Diego]]
 - [[Project]]
   id:: 63a4a02b-765c-4ab1-af73-a0bdc17e3755
 	- [[Project/Research]]
