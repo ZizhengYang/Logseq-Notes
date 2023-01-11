@@ -26,16 +26,16 @@ icon:: 😀
 		- TODO [[Project/App/New generation note taking app]] #@/yzz
 		- TODO [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
-		- [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
+		- TODO [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
-		- [[Project/Writing/From data to insight, how science shaped our world]] #@/yzz
-		- [[Project/Writing/What is power and how regime works]] #@/yzz #@/byl
-		- [[Project/Writing/An overall analysis of CCP academically]] #@/yzz
-		- [[Project/Writing/People that have been working on changing the world]] #@/yzz
-		- [[Project/Writing/Access to knowledge and free culture]] #@/yzz
-		- [[Project/Writing/Fermi Paradox, three body, dark forest and cosmic civilization]] #@/yzz
-		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
-		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
+		- TODO [[Project/Writing/From data to insight, how science shaped our world]] #@/yzz
+		- TODO [[Project/Writing/What is power and how regime works]] #@/yzz #@/byl
+		- TODO [[Project/Writing/An overall analysis of CCP academically]] #@/yzz
+		- TODO [[Project/Writing/People that have been working on changing the world]] #@/yzz
+		- TODO [[Project/Writing/Access to knowledge and free culture]] #@/yzz
+		- TODO [[Project/Writing/Fermi Paradox, three body, dark forest and cosmic civilization]] #@/yzz
+		- TODO [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
+		- TODO [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
 	- [[Project/Design]]
 		- [[Project/Design/Excerpts and pictures from ancient texts]] #@/yzz
 - [[Cognition]]
