@@ -29,7 +29,7 @@ icon:: 😀
 	- [[Project/Startup]]
 		- [[Project/Startup/Startup D2C]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
-		- [[Project/Writing/]]
+		- [[Project/Writing/What is power and how regime works]] #@/yzz
 		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
 		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
 	- [[Project/Design]]
