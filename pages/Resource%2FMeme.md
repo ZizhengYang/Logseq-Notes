@@ -1,2 +1,2 @@
-- 你有哪些爱到不行的沙雕图? - 社畜73号的回答 - 知乎 https://www.zhihu.com/question/323917042/answer/2763310342
--
+- **来自于生活细节中的幽默** https://www.zhihu.com/question/323917042/answer/2763310342
+- **三国演义+学业=笑话**
