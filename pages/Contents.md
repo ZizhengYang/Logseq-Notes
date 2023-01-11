@@ -28,7 +28,7 @@ icon:: 😀
 		- [[Project/App/New generation note taking app]] #@/yzz
 		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
-		- [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
+		- [[Project/Startup/Startup D2C']] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
 		- [[Project/Writing/Game theory, games, and how to simulated real world]] #@/yzz
 		- [[Project/Writing/Story of company, such as silicon valley]] #@/yzz
