@@ -22,9 +22,9 @@ icon:: 😀
 		- TODO [[Project/Research/Using the topology to study the AI explainability]] #@/yzz #@/byl
 		- TODO [[Project/Research/Video reference and graph]] #@@/byl_mom #@/byl #@/yzz
 	- [[Project/App]]
-		- [[Project/App/News_App]] #@/yzz #@@/wph
-		- [[Project/App/New generation note taking app]] #@/yzz
-		- [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
+		- TODO [[Project/App/News_App]] #@/yzz #@@/wph
+		- TODO [[Project/App/New generation note taking app]] #@/yzz
+		- TODO [[Project/App/Budget_Income_Outcome_Management_App]] #@/yzz
 	- [[Project/Startup]]
 		- [[Project/Startup/Startup]] #@/yzz #@@/S.Chen #@@/Zeng
 	- [[Project/Writing]]
