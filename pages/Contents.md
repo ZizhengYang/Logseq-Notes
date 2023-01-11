@@ -39,4 +39,3 @@ icon:: 😀
 	- [[Course/UCSC]]
 		- [[Course/UCSC/PHYS 214 Electromagnetism II]] #@/yzz
 		- [[Course/UCSC/PHYS 215 Introduction to Non-Relativistic Quantum Mechanics ]] #@/yzz
--
