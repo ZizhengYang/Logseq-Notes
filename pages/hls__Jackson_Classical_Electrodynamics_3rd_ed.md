@@ -1,5 +1,5 @@
 - ## CHAPTER 1 Introduction to Electrostatics
 	- ### 1.1 Coulomb's Law
 	- ### 1.2 Electric Field
-		- 什么是库仑力
+		- What is the Coulomb's law?
 	- ### 1.3 Gauss's Law
