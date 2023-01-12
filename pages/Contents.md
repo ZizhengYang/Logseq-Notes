@@ -1,12 +1,12 @@
 icon:: 😀
 
 -
+- [[Collection]]
 - [[Project/BrainStorm]]
 	- [[Project/BrainStorm/Bilibili_video]]
 	- [[Project/BrainStorm/Idea_to_test_and_investigate]]
 	- [[Project/BrainStorm/Application_and_coding]]
 	- [[Project/BrainStorm/Something_should_write_about]]
-- [[Collection]]
 - [[Workflow]]
 	- [[Workflow]]
 - [[Project]]
