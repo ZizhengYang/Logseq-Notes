@@ -6,7 +6,7 @@ icon:: 😀
 	- [[Project/BrainStorm/Idea_to_test_and_investigate]]
 	- [[Project/BrainStorm/Application_and_coding]]
 	- [[Project/BrainStorm/Something_should_write_about]]
-- [[Resource]]
+- [[Collection]]
 - [[Workflow]]
 	- [[Workflow]]
 - [[Project]]
