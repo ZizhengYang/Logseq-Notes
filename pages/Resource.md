@@ -7,4 +7,3 @@ color:: grey
 - [[Resource/Sentence]]
 - [[Resource/Meme]]
 - [[Resource/Website]]
--

@@ -1,4 +1,4 @@
 icon:: 🔐
-color:: blue
+color:: pink
 
 -

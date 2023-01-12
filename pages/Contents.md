@@ -7,6 +7,7 @@ icon:: 😀
 	- [[Project/BrainStorm/Application_and_coding]]
 	- [[Project/BrainStorm/Something_should_write_about]]
 - [[Resource]]
+- [[EXAMPLE]]
 - [[Workflow]]
 	- [[Workflow]]
 - [[Project]]
